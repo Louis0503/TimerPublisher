@@ -45,6 +45,9 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PublisherTracker.cs" />
+    <Compile Include="SubScriber.cs" />
+    <Compile Include="Unsubscriber.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

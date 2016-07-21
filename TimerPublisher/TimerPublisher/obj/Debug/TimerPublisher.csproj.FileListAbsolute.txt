@@ -1,1 +1,5 @@
 C:\Users\RD02\Documents\GitHub\TimerPublisher\TimerPublisher\TimerPublisher\bin\Debug\TimerPublisher.exe.config
+C:\Users\RD02\Documents\GitHub\TimerPublisher\TimerPublisher\TimerPublisher\bin\Debug\TimerPublisher.exe
+C:\Users\RD02\Documents\GitHub\TimerPublisher\TimerPublisher\TimerPublisher\bin\Debug\TimerPublisher.pdb
+C:\Users\RD02\Documents\GitHub\TimerPublisher\TimerPublisher\TimerPublisher\obj\Debug\TimerPublisher.exe
+C:\Users\RD02\Documents\GitHub\TimerPublisher\TimerPublisher\TimerPublisher\obj\Debug\TimerPublisher.pdb
